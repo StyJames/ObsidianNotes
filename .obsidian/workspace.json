@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "面向对象.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6eaa1410a0f0e9cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Java拾遗.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,13 +158,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e02c336c189b9795",
+  "active": "6eaa1410a0f0e9cc",
   "lastOpenFiles": [
-    "G1 GC.md",
     "数据库.md",
+    "设计模式.md",
     "热点代码.md",
     "面向对象.md",
     "Java拾遗.md",
+    "G1 GC.md",
     "47dddbd91ad0e0adbd164632eb9facec 1.webp",
     "a662fda0de8af087c37c40a86a9cf3f1 1.webp",
     "a662fda0de8af087c37c40a86a9cf3f1.webp",
