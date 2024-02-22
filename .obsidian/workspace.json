@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "db23aa6d50b610b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "18b75561b278a416",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e02c336c189b9795",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java拾遗.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58de6e2924e3e17b",
+    "type": "split",
+    "children": [
+      {
+        "id": "38c869f0258487d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b47422e5d20c2bfc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c59624638689bb5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd9f027b18f7f668",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "97807bccb7faf150",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ee44ed0253ff087",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bf27bb238552bed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java拾遗.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2eae1ab065606a80",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java拾遗.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "577e8c50f1492657",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cdd185d73a0cbf5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java拾遗.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e02c336c189b9795",
+  "lastOpenFiles": [
+    "面向对象.md",
+    "热点代码.md",
+    "数据库.md",
+    "Java拾遗.md",
+    "G1 GC.md",
+    "47dddbd91ad0e0adbd164632eb9facec 1.webp",
+    "a662fda0de8af087c37c40a86a9cf3f1 1.webp",
+    "a662fda0de8af087c37c40a86a9cf3f1.webp",
+    "accba531a365e6ae39614ebfa3273900 2.webp",
+    "ad3b4a49f4c1bff67124563abc50a0a2 1.webp",
+    "da7e1ecfd3c3ee0263b8892342dbc629 1.webp",
+    "4338e26731db0df390896ab305506d8b 1.webp",
+    "266cfaab2573c9777b1157816784727c 1.webp",
+    "675536edf1563b11ab7ead0def1215c7 2.webp",
+    "v2-b098a84eb7598d70913444a991d1759b_r 1.png"
+  ]
+}
