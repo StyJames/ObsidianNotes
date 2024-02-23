@@ -47,9 +47,11 @@
             "id": "0121031621bcb087",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "da7e1ecfd3c3ee0263b8892342dbc629 1.webp"
+                "file": "Docker与k8s.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "da7e1ecfd3c3ee0263b8892342dbc629 1.webp",
+                "file": "Docker与k8s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "da7e1ecfd3c3ee0263b8892342dbc629 1.webp",
+                "file": "Docker与k8s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "da7e1ecfd3c3ee0263b8892342dbc629 1.webp"
+                "file": "Docker与k8s.md"
               }
             }
           }
@@ -182,8 +184,12 @@
   },
   "active": "0121031621bcb087",
   "lastOpenFiles": [
-    "v2-b098a84eb7598d70913444a991d1759b_r 1.png",
+    "数据库.md",
+    "设计模式.md",
+    "面向对象.md",
+    "并发.md",
     "da7e1ecfd3c3ee0263b8892342dbc629 1.webp",
+    "v2-b098a84eb7598d70913444a991d1759b_r 1.png",
     "v2-b098a84eb7598d70913444a991d1759b_r.png",
     "ad3b4a49f4c1bff67124563abc50a0a2 1.webp",
     "da7e1ecfd3c3ee0263b8892342dbc629.webp",
@@ -192,15 +198,10 @@
     "a662fda0de8af087c37c40a86a9cf3f1 1.webp",
     "accba531a365e6ae39614ebfa3273900 1.webp",
     "accba531a365e6ae39614ebfa3273900.webp",
-    "20200522082651318 1.png",
     "Docker与k8s.md",
     "Redis.md",
-    "并发.md",
     "Java拾遗.md",
-    "数据库.md",
-    "设计模式.md",
     "热点代码.md",
-    "面向对象.md",
     "G1 GC.md"
   ]
 }
