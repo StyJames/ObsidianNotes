@@ -104,22 +104,8 @@
 	4. charset，提供了字符串的编码解码
 #### AIO
 异步非阻塞的IO模式，采用的是事件与回调机制。待补充
-### 并发-JUC
-1. Java本身提供的线程同步工具粒度较为粗放。比如普通集合类中自带同步的工具vector/hashTable等，以及collection包提供的同步包装，它将所有操作方法加上了synchronized关键字来满足同步需求。但是在并发度较为高的场景下，需要一个更加同步粒度更为细致的方案，即concurrency包。
-2. concurrency包提供的线程安全容器：
-	1. 各种并发容器，ConcurrenctHashMap、CopyOnWriteArrayList
-	2. 线程安全队列（queue、deque），ArrayBlockingQueue、SynchronousQueue
-	3. 各种有序容器的线程安全版本
-3. ConcurrenctHashMap举例分析
-	1. 整体上仍然是数组+链表元素的复合结构，segment仅作为一个兼容性的东西，不再实际使用。key设置为final，保证一致不变，value设置为volatile保证可见性，同时链表也设置为volatile保证可见性。如下展示节点的部分属性：
-	 `static class Node<K,V> implements Map.Entry<K,V> {`
-        `final int hash;`
-        `final K key;`
-        `volatile V val;`
-        `volatile Node<K,V> next;`
-        `// …` 
-    `}`
-	2. 使用CAS操作，保证大部分场景的无锁并发。极端情况下采用Unsafe、LongAdder等底层JNI调用来保证并发。
+#### 并发
+[并发](并发.md)
 ### 安全
 ### utils工具类相关
 #### String
