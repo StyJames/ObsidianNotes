@@ -60,7 +60,8 @@ k8s的简单架构可以参考下面图例：
 	2. kube-proxy，node的网络代理，转发TCP/UDP数据包
 	3. container-runtime，实际使用镜像和容器，管理容器的生命周期
 ### k8s工作的一般流程
-1. 
+1. 每个Node上的kubelet定期向API Server上报节点状态，API Server再存到etcd里面
+2. 
 
 # 云原生
 使用容器、微服务、声明式API技术等在k8s上进行应用的开发、部署、维护。保证整个应用的生命周期都在k8s中顺利实施，无需额外操作。

@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac59cf9e1d4f0536",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker与k8s.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,8 +194,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0121031621bcb087",
+  "active": "ac59cf9e1d4f0536",
   "lastOpenFiles": [
+    "Redis.md",
     "数据库.md",
     "设计模式.md",
     "面向对象.md",
@@ -199,7 +212,6 @@
     "accba531a365e6ae39614ebfa3273900 1.webp",
     "accba531a365e6ae39614ebfa3273900.webp",
     "Docker与k8s.md",
-    "Redis.md",
     "Java拾遗.md",
     "热点代码.md",
     "G1 GC.md"
