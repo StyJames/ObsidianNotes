@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker与k8s.md",
+                "file": "Redis.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker与k8s.md",
+                "file": "Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker与k8s.md",
+                "file": "Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker与k8s.md"
+                "file": "Redis.md"
               }
             }
           }
@@ -196,6 +196,7 @@
   },
   "active": "ac59cf9e1d4f0536",
   "lastOpenFiles": [
+    "Docker与k8s.md",
     "65d38ac50b4f2f1fd4b6700d5b8e7be1.webp",
     "Redis.md",
     "数据库.md",
@@ -211,8 +212,6 @@
     "ad3b4a49f4c1bff67124563abc50a0a2.webp",
     "a662fda0de8af087c37c40a86a9cf3f1 1.webp",
     "accba531a365e6ae39614ebfa3273900 1.webp",
-    "accba531a365e6ae39614ebfa3273900.webp",
-    "Docker与k8s.md",
     "Java拾遗.md",
     "热点代码.md",
     "G1 GC.md"

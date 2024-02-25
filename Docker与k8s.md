@@ -67,8 +67,6 @@ k8s的简单架构可以参考下面图例：
 3. scheduler通过API Server 得到当前节点状态，调度pod,然后API Server 下发命令给某个Node的kubelet，kubelet调用container-runtime启动容器
 4. container-manager通过 API Server 得到实时的节点状态，监控可能的异常，在使用对应的手段去调节恢复
 
-
-
 # 云原生
 使用容器、微服务、声明式API技术等在k8s上进行应用的开发、部署、维护。保证整个应用的生命周期都在k8s中顺利实施，无需额外操作。
 
