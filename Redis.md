@@ -138,15 +138,28 @@
 1. Map集合应用，Key-Map集合，主要用于存储对象信息。可以理解为String处理的拓展
 2. 常用命令，通常以H字母开头，大部分String操作的命令也适用于Hash的操作
 
-| 命令                                    | 描述                  |
-| ------------------------------------- | ------------------- |
-| hset K field V                        | 在哈希K存入一个键值对field-V  |
-| hget K field                          | 取出哈希K中field的值       |
-| hmset K field1 V1 field2 V2 field3 V3 | 在哈希K中存入多个键值对field-V |
-| hmget K field1 field2                 | 取出哈希K中多个field的值     |
-|                                       |                     |
-3. 适合存储对象信息并修改，例如用户信息、商品信息等
-### Zset
+| 命令                                    | 描述                                |
+| ------------------------------------- | --------------------------------- |
+| hset K field V                        | 在哈希K存入一个键值对field-V                |
+| hget K field                          | 取出哈希K中field的值                     |
+| hmset K field1 V1 field2 V2 field3 V3 | 在哈希K中存入多个键值对field-V               |
+| hmget K field1 field2                 | 取出哈希K中多个field的值                   |
+| hgetall K                             | 返回哈希K中所有的键值对                      |
+| hlen K                                | 返回哈希K中的键值对个数                      |
+| hexists K field                       | 判断哈希K中的某个键是否存在                    |
+| hkeys K                               | 返回哈希K中所有的key                      |
+| hvals K                               | 返回哈希K中所有的value                    |
+| hincrby K field number                | 指定增程,对哈希K中的field进行增量加减            |
+| hsetnx K field V                      | 如果存在则不能赋值，不存在则可以赋值。**也可用于分布式锁设计** |
+3. 适合存储经常变动的对象信息，例如用户信息、商品信息等
+### Zset（有序集合）
+1. 在set基础上，增加了一个值作为排序依据。
+2. 常用命令，以Z字母作为开头
+
+| 命令  | 描述  |
+| --- | --- |
+|     |     |
+
 
 ## 三种特殊数据类型
 ### geospatical
