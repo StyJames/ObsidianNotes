@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序设计/面向对象.md",
+                "file": "中间件/Redis.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程序设计/面向对象.md",
+                "file": "中间件/Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程序设计/面向对象.md",
+                "file": "中间件/Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程序设计/面向对象.md"
+                "file": "中间件/Redis.md"
               }
             }
           }
@@ -216,16 +216,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "254ffca79d97f34e",
+  "active": "b47422e5d20c2bfc",
   "lastOpenFiles": [
-    "程序设计/设计模式.md",
+    "中间件/消息队列.md",
+    "中间件/Redis.md",
+    "云原生/云原生.md",
+    "数据库/数据库.md",
+    "Java基础/并发.md",
     "程序设计/面向对象.md",
+    "程序设计/设计模式.md",
     "Spring/Spring.md",
     "Spring/SpringBoot.md",
     "Java基础/G1 GC.md",
     "Java基础/Java拾遗.md",
     "Java基础/热点代码.md",
-    "Java基础/并发.md",
     "图片/v2-b098a84eb7598d70913444a991d1759b_r 1.png",
     "图片/47dddbd91ad0e0adbd164632eb9facec 1.webp",
     "云原生",
@@ -236,9 +240,7 @@
     "Java基础",
     "Spring",
     "云原生/Docker与k8s.md",
-    "中间件/Redis.md",
     "图片/65d38ac50b4f2f1fd4b6700d5b8e7be1.webp",
-    "数据库/数据库.md",
     "图片/da7e1ecfd3c3ee0263b8892342dbc629 1.webp",
     "v2-b098a84eb7598d70913444a991d1759b_r.png",
     "图片/ad3b4a49f4c1bff67124563abc50a0a2 1.webp",
