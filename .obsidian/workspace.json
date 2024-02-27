@@ -216,8 +216,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b47422e5d20c2bfc",
+  "active": "254ffca79d97f34e",
   "lastOpenFiles": [
+    "sty.pub",
+    "sty",
     "中间件/消息队列.md",
     "中间件/Redis.md",
     "云原生/云原生.md",
