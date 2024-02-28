@@ -206,7 +206,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6eaa1410a0f0e9cc",
+  "active": "254ffca79d97f34e",
   "lastOpenFiles": [
     "Java并发/并发.md",
     "中间件/dubbo.md",
@@ -232,6 +232,11 @@
     "Java拾遗.md",
     "G1 GC.md",
     "热点代码.md",
+    "sty.pub",
+    "sty",
+    "中间件/消息队列.md",
+    "中间件/Redis.md",
+    "云原生/云原生.md",
     "数据库/数据库.md",
     "热点问题剖析/问题剖析.md",
     "程序设计/面向对象.md",
