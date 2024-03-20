@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试汇总/题目遴选.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试汇总/题目遴选.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试汇总/题目遴选.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试汇总/题目遴选.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,8 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bc62694b3da95a49",
+  "active": "00cfd277f6284e1a",
   "lastOpenFiles": [
+    "基金、证券从业",
+    "flask/flask.md",
+    "图片/Pasted image 20240320173503.png",
+    "面试汇总/题目遴选.md",
+    "flask",
     "面试汇总/生产问题.md",
     "热点问题剖析/问题剖析.md",
     "README.md",
@@ -161,7 +166,6 @@
     "Java并发/线程池.md",
     "程序设计/面向对象.md",
     "程序设计/设计模式.md",
-    "面试汇总/题目遴选.md",
     "数据库/数据库.md",
     "中间件/Redis.md",
     "中间件/dubbo.md",
